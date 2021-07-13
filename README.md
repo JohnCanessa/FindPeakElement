@@ -8,7 +8,7 @@ Hope you enjoy solving it.
 If interested in my comments, I invite you to check out the
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/07/14/find-peek-element/
 
 Remember that one of the best ways to learn is to read and experiment.
 Keep in mind that practice makes perfect.
